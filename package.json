@@ -14,8 +14,11 @@
     "@emotion/react": "latest",
     "@emotion/server": "latest",
     "@emotion/styled": "latest",
+    "@faker-js/faker": "^7.3.0",
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
+    "@tanstack/react-table": "^8.5.5",
+    "@tanstack/react-virtual": "^3.0.0-beta.14",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
